@@ -1,3 +1,5 @@
+This Vagrant VM is based off the quick start instructions in the Canvas Github repo.  If you have problems building the VM you should first try to use a different stable branch of Canvas code in the .sh file.  We've had a few stable canvas releases that were not so stable.
+
 Requirements...
 
 Install 
